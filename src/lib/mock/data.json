@@ -1,0 +1,63 @@
+[
+    {
+      "tittle": "Pollo",
+      "subtittle": "Subtittle 1",
+      "items": [
+        {
+          "id": 1,
+          "name": "Grilled Herb Chicken",
+          "description": "Tender chicken breast grilled to perfection with aromatic herbs and spices.",
+          "image": "https://placehold.co/150",
+          "image_alt": "Image for Grilled Herb Chicken"
+        },
+        {
+          "id": 2,
+          "name": "Creamy Mushroom Pasta",
+          "description": "Pasta tossed in a rich, creamy mushroom sauce, garnished with parmesan.",
+          "image": "https://placehold.co/150",
+          "image_alt": "Image for Creamy Mushroom Pasta"
+        }
+      ]
+    },
+    {
+      "tittle": "Pizzas",
+      "subtittle": "Subtittle 2",
+      "items": [
+        {
+          "id": 1,
+          "name": "Classic Margherita Pizza",
+          "description": "Thin crust pizza topped with fresh tomatoes, mozzarella, and basil.",
+          "image": "https://placehold.co/150",
+          "image_alt": "Image for Classic Margherita Pizza"
+        },
+        {
+          "id": 2,
+          "name": "Spicy Thai Noodles",
+          "description": "Rice noodles stir-fried with vegetables, peanuts, and a spicy Thai sauce.",
+          "image": "https://placehold.co/150",
+          "image_alt": "Image for Spicy Thai Noodles"
+        },
+        {
+          "id": 3,
+          "name": "Chocolate Lava Cake",
+          "description": "Warm chocolate cake with a gooey molten center, served with vanilla ice cream.",
+          "image": "https://placehold.co/150",
+          "image_alt": "Image for Chocolate Lava Cake"
+        }
+      ]
+    },
+    {
+      "tittle": "Fitness",
+      "subtittle": "Subtittle 3",
+      "items": [
+        {
+          "id": 1,
+          "name": "Caesar Salad",
+          "description": "Crisp romaine lettuce tossed in Caesar dressing, topped with croutons and parmesan.",
+          "image": "https://placehold.co/150",
+          "image_alt": "Image for Caesar Salad"
+        }
+      ]
+    }
+  ]
+  
